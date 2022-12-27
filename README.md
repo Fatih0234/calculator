@@ -24,7 +24,7 @@ OOP made it possible to be easy to work with and make flexible changes.
 <p>I have used only one module for this program which is tkinter and it is built-in module in python. So there is no single dependencies for this program. </p>
 
 <h1>What the app looks like</h1>
-https://github.com/Fatih0234/calculator/blob/main/calc.png
+<img href="cal.png"></img>
 
 - 🌱 I’m currently learning **data structures and web development**
 
